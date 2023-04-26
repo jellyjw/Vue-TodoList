@@ -1,17 +1,4 @@
-# Vue Dev Guide
-- Typescript, Vue3, Vitejs 기반 개발을 위해 사용을 위한 주요 가이드 모음
-- [vitesse](https://github.com/antfu/vitesse)를 기반으로 구성됨
-
-## 가이드 구성 진행 사항
-- [x] Vue3 환경에서 Typescript 사용 가이드
-- [x] Framework 내 주요 사용 방안
-- [X] Coding Guide
-
-## Framework 추가 할 수 있는 기능 들
-- pure javascript library에 대한 **Lazy** 로드
-- **Event Bus** 및 **Event Manager**
-- 다수 **Snippets**
-- 다수 Vue3, Typescript **강의 자료**들
+![ezgif com-video-to-gif](https://user-images.githubusercontent.com/104891203/234526907-5443cf1b-dd9a-4e07-8d05-89f55b9a2e1a.gif)
 
 ## 구성될 Framework의 기본 기능들
 
