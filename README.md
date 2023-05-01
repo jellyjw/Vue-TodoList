@@ -94,12 +94,6 @@
 
 As this template is strongly opinionated, the following provides a curated list for community-maintained variations with different preferences and feature sets. Check them out as well. PR to add yours is also welcome!
 
-###### Official
-
-- [vitesse-lite](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse
-- [vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) - Vitesse for Nuxt 3
-- [vitesse-nuxt-bridge](https://github.com/antfu/vitesse-nuxt-bridge) - Vitesse for Nuxt 2 with Bridge
-- [vitesse-webext](https://github.com/antfu/vitesse-webext) - WebExtension Vite starter template
 
 ###### Community
 
